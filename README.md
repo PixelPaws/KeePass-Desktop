@@ -43,10 +43,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-##Contributions
-
-The following list might not be complete, please refer to [merged Pull Requests](https://github.com/mstarke/MacPass/pulls?utf8=✓&q=is%3Apr+is%3Aclosed+is%3Amerged) on GitHub for more details.
-
 ### Artworks
 
 [Aljoscha Lüers](http://alj-lue.de) MacPass & MacPass Documents icons
